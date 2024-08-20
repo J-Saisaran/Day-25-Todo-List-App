@@ -112,7 +112,7 @@ const App = () => {
         <div
           style={{
             display: "flex",
-            justifyContent: "center",
+            justifyContent: "end",
             marginBottom: "20px",
           }}
         >
